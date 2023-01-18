@@ -18,6 +18,7 @@ public class ReverseWord {
         myArray[4] = 'd';
         myArray[5] = 'f';
         myArray[6] = 'a';
+        //test to check edit history
 
         for(int i = 0; i<myArray.length; i++){
             System.out.println(myArray[1]);
