@@ -7,6 +7,7 @@ package student;
 /**
  *
  * @author tmoti
+ * &Copyright Feb 2, 2023
  */
 public class Student {
     private String studentId;
