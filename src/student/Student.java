@@ -8,6 +8,7 @@ package student;
  *
  * @author tmoti
  * &Copyright Feb 2, 2023
+ * edit to test
  */
 public class Student {
     private String studentId;
